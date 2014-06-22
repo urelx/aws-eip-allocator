@@ -11,5 +11,5 @@ libraryDependencies ++= Seq(
   "org.scalacheck" %% "scalacheck" % "1.10.0" % "test" withSources() withJavadoc()
 )
 
-initialCommands := "import jp.relx.awseipallocator._"
+initialCommands := "import jp.relx.awstools._"
 
